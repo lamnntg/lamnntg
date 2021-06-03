@@ -7,7 +7,7 @@
    + Facebook: [Here](https://www.facebook.com/laamtaamnhuw/)
    + Email: lam.nt176800@sis.hust.edu.vn / lamnguyen.hust@gmail.com
    
-> Live where you can hear people. Do your own way.
+> Work hard in silence let success make the noise.
 <!--
 **lamylov3/lamylov3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
