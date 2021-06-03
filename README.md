@@ -1,5 +1,5 @@
 # About me:
-- 👋 Hi, I’m Nguyen Tung Lam.
+<img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hi there, I’m Nguyen Tung Lam.
 - 👀 I’m interested in Back-end Developer.
 - 🌱 I’m currently learning at Hanoi University of Science and Technology. 
 - 📫 Reach me at : 
