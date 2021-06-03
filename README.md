@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning HUST
-- 📫 How to reach me: FB:https://www.facebook.com/laamtaamnhuw
+- 📫 How to reach me: 
+    FB: https://www.facebook.com/laamtaamnhuw
 <!--
 **lamylov3/lamylov3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
