@@ -2,7 +2,8 @@
 <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>Hi there
 <strong> I’m Nguyen Tung Lam. </strong>
 - 👀 I’m interested in Back-end Developer.
-- 🌱 I’m currently learning at Hanoi University of Science and Technology. 
+- 🌱 I’m currently learning at Hanoi University of Science and Technology.
+- ⚡ I’m currently working at MONSTAR LAB HA NOI CO., LTD.
 - 📫 Reach me at : 
 
    + Facebook: [Here](https://www.facebook.com/laamtaamnhuw/)
