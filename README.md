@@ -3,7 +3,8 @@
 <strong> I’m Nguyen Tung Lam. </strong>
 - 👀 I’m interested in Back-end Developer.
 - 🌱 I’m currently learning at Hanoi University of Science and Technology.
-- ⚡ I’m currently working at MONSTAR LAB HA NOI CO., LTD.
+- ⚡ I’m currently working at KIOTVIET (CITIGO).
+- ⚡ I once worked working at MONSTAR LAB HA NOI CO., LTD.
 - 📫 Reach me at : 
 
    + Facebook: [Here](https://www.facebook.com/laamtaamnhuw/)
